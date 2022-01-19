@@ -3,8 +3,10 @@
   "description": "Test and submit your current internet connection speed.",
   "portalUrl": "https://lcpsfhs.maps.arcgis.com",
   "clientId": "IHh5GefIQLNKkxOn",
-  "itemId": "4ec3abcb46984cbeaca094d5b605892d",
+  "itemId": "39dc7c8040d14790850135ee428a869b",
   "surveyInternetQuestion": "internet",
   "ooklaUrl": "http://freedomhighschool.speedtestcustom.com",
   "redirectOnSubmitUrl": "null"
+  "ooklaUrl": "esriapl.speedtestcustom.com",
+  "redirectOnSubmitUrl": "https://developers.arcgis.com/survey123/"
 }
