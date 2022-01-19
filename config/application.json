@@ -1,10 +1,10 @@
 {
   "title": "Survey 123 and Speedtest",
   "description": "Test and submit your current internet connection speed.",
-  "portalUrl": "https://www.arcgis.com",
+  "portalUrl": "https://lcpsfhs.maps.arcgis.com",
   "clientId": "IHh5GefIQLNKkxOn",
   "itemId": "4ec3abcb46984cbeaca094d5b605892d",
   "surveyInternetQuestion": "internet",
   "ooklaUrl": "http://freedomhighschool.speedtestcustom.com",
-  "redirectOnSubmitUrl": "https://developers.arcgis.com/survey123/"
+  "redirectOnSubmitUrl": "null"
 }
